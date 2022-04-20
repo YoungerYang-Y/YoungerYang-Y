@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## GitHub README 统计
+![monkeyDyang's Github stats](https://github-readme-stats.vercel.app/api?username=monkeyDyang&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyDyang&layout=compact)
