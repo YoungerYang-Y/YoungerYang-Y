@@ -1,20 +1,37 @@
-### Hi there 👋
+## Hey <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm YangYang
 
-<!--
-**monkeyDyang/monkeyDyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=monkeyDyang.monkeyDyang) <img alt="ViewCount" src="https://views.whatilearened.today/views/github/monkeyDyang/monkeyDyang.svg" />
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## GitHub README 统计
-![monkeyDyang's Github stats](https://github-readme-stats.vercel.app/api?username=monkeyDyang&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyDyang&layout=compact)
+### **• 👨🏻 About Me**
+
+Hi, I'm YangYang, a Java Developer 🚀 from China. Beside's programming, I enjoy cooking and traveling.
+
+<br />
+
+### **• 🙋‍♂️Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on [Legendary](https://github.com/monkeyDyang/Legendary);
+- 🌱 I’m currently learning Cloud and DevOps;
+- 👯 I’m looking to collaborate on [Legendary](https://github.com/monkeyDyang/Legendary);
+- 🤔 I’m looking for help with Data Structures and Algorithms;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: yang1059376437@gmail.com;
+
+<br />
+
+### • 🔭 **This week I spent my time on**
+
+<img  src="https://github-readme-stats.vercel.app/api?username=monkeyDyang&show_icons=true&include_all_commits=true&line_height=20">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyDyang&layout=compact">
+
+<br />
+
+### • <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Projects I am currently working on**
+
+<a href="https://github.com/monkeyDyang/Legendary">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=monkeyDyang&repo=Legendary" alt="Legendary" />
+</a>
