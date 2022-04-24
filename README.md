@@ -1,4 +1,4 @@
-## Hey <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm YangYang
+### Hey <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm YangYang
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=monkeyDyang.monkeyDyang) <img alt="ViewCount" src="https://views.whatilearened.today/views/github/monkeyDyang/monkeyDyang.svg" />
 
@@ -25,8 +25,7 @@ Hi, I'm YangYang, a Java Developer 🚀 from China. Beside's programming, I enjo
 
 ### • 🔭 **This week I spent my time on**
 
-<img  src="https://github-readme-stats.vercel.app/api?username=monkeyDyang&show_icons=true&include_all_commits=true&line_height=20">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyDyang&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=monkeyDyang&show_icons=true&include_all_commits=true&line_height=20"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyDyang&layout=compact">
 
 <br />
 
