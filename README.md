@@ -34,6 +34,6 @@ Hi, I'm YangYang, a Java Developer 🚀 from China. Beside's programming, I enjo
 <a href="https://github.com/monkeyDyang/Legendary">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=monkeyDyang&repo=Legendary" alt="Legendary" />
 </a>
-<a href="https://github.com/monkeyDyang/Legendary">
+<a href="https://github.com/monkeyDyang/yangchuran">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=monkeyDyang&repo=yangchuran" alt="yangchuran" />
 </a>
