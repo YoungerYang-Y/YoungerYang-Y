@@ -23,12 +23,6 @@ Hi, I'm YangYang, a Java Developer 🚀 from China. Beside's programming, I enjo
 
 <br />
 
-### • 🔭 **This week I spent my time on**
-
-<img src="https://github-readme-stats.vercel.app/api?username=monkeyDyang&show_icons=true&include_all_commits=true&line_height=20"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyDyang&layout=compact">
-
-<br />
-
 ### • <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Projects I am currently working on**
 
 <a href="https://github.com/monkeyDyang/Legendary">
@@ -37,3 +31,11 @@ Hi, I'm YangYang, a Java Developer 🚀 from China. Beside's programming, I enjo
 <a href="https://github.com/monkeyDyang/yangchuran">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=monkeyDyang&repo=yangchuran" alt="yangchuran" />
 </a>
+<br />
+
+### • 🔭 **This week I spent my time on**
+
+<img src="https://github-readme-stats.vercel.app/api?username=monkeyDyang&show_icons=true&include_all_commits=true&line_height=20"> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkeyDyang&layout=compact">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
