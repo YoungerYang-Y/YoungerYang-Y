@@ -1,6 +1,7 @@
 ### Hey <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> I'm YangYang
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=monkeyDyang.monkeyDyang) <img alt="ViewCount" src="https://views.whatilearened.today/views/github/monkeyDyang/monkeyDyang.svg" />
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FmonkeyDyang&countColor=%2337d67a&style=plastic) <img alt="ViewCount" src="https://views.whatilearened.today/views/github/monkeyDyang/monkeyDyang.svg" />
+
 
 <hr>
 
