@@ -15,10 +15,10 @@ Hi, I'm YoungerYang, a Java Developer 🚀 from China. Beside's programming, I e
 
 ### **• 🙋‍♂️Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on [Legendary](https://github.com/YoungerYang-Y/Legendary)
+- 🔭 I’m currently working on [Yggdrasil-Labs](https://github.com/Yggdrasil-Labs)
 - 🌱 I’m currently learning **Cloud and Vue**
-- 👯 I’m looking to collaborate on [yangchuran](https://github.com/YoungerYang-Y/yangchuran)
-- 🤝 I’m looking for help with [Legendary](https://github.com/YoungerYang-Y/Legendary)
+- 👯 I’m looking to collaborate on [mimir-boot](https://github.com/Yggdrasil-Labs/mimir-boot)
+- 🤝 I’m looking for help with [Yggdrasil-Labs](https://github.com/Yggdrasil-Labs)
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me yang1059376437@gmail.com
 
